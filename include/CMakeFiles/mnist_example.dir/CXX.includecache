@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qiao/Downloads/mnist-master/include/main.cpp
+iostream
+-
+mnist/mnist_reader.hpp
+/home/qiao/Downloads/mnist-master/include/mnist/mnist_reader.hpp
+mnist/mnist_utils.hpp
+/home/qiao/Downloads/mnist-master/include/mnist/mnist_utils.hpp
+
+/home/qiao/Downloads/mnist-master/include/mnist/mnist_reader.hpp
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+cstdint
+-
+memory
+-
+mnist_reader_common.hpp
+/home/qiao/Downloads/mnist-master/include/mnist/mnist_reader_common.hpp
+
+/home/qiao/Downloads/mnist-master/include/mnist/mnist_reader_common.hpp
+
+/home/qiao/Downloads/mnist-master/include/mnist/mnist_utils.hpp
+cmath
+-
+

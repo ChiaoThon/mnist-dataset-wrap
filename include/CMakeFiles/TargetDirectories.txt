@@ -1,0 +1,3 @@
+/home/qiao/Downloads/mnist-master/include/CMakeFiles/rebuild_cache.dir
+/home/qiao/Downloads/mnist-master/include/CMakeFiles/mnist_example.dir
+/home/qiao/Downloads/mnist-master/include/CMakeFiles/edit_cache.dir
